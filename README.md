@@ -1,6 +1,6 @@
 # Hi 👋, I'm Leunel Valmoria
 
-I'm learning web development and enjoying the process of breaking things and fixing them 
+I'm learning web development and enjoying the process of breaking things and fixing them 🤙
 
 - 🌱 Learning **Svelte, JavaScript, TypeScript, Java, and PHP**
 - 💬 Ask me anything about **web dev**
