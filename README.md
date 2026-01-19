@@ -4,6 +4,21 @@
 <p align="center">
   🌱 Svelte • JavaScript • TypeScript • Java • PHP <br/>
   💻 Building, breaking, fixing, and learning every day
+  <img src="https://readme-typing-svg.demolab.com?
+    font=Fira+Code&
+    size=22&
+    pause=1000&
+    color=38B2AC&
+    center=true&
+    vCenter=true&
+    width=500&
+    lines=Aspiring+Web+Developer;Svelte+%7C+TypeScript+%7C+JavaScript;Building+Real+World+Projects" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nel2131&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/nel2131?label=Followers&style=flat" />
+  <img src="https://img.shields.io/github/stars/nel2131?label=Stars&style=flat" />
 </p>
 
 ---
