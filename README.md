@@ -1,14 +1,19 @@
 # Hi 👋, I'm Leunel Valmoria
 
-### A budding Java developer
+A web developer in progress 🚧
 
-- 🌱 I'm currently learning **Svelte, JavaScript, Java, TypeScript, PHP**
-
+- 🌱 Learning **Svelte, JavaScript, TypeScript, Java, and PHP**
 - 💬 Ask me about **web development**
+- 📫 Reach me at **leunel24@gmail.com**
+- ⚡ Fun fact: **I don't know how to code — yet**
 
-- 📫 How to reach me **leunel24@gmail.com**
+---
 
-- ⚡ Fun fact **I dont know how to code**
+## 📊 GitHub Stats
+
+![Leunel's GitHub stats](https://github-readme-stats.vercel.app/api?username=nel2131&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nel2131&layout=compact&theme=tokyonight)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
