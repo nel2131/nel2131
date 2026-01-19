@@ -1,19 +1,47 @@
 <h1 align="center">Hi 👋, I'm Leunel Valmoria</h1>
+<h3 align="center">Aspiring Web Developer | Learning by Breaking Things</h3>
 
-I'm learning web development and enjoying the process of breaking things and fixing them 🤙
-
-- 🌱 Learning **Svelte, JavaScript, TypeScript, Java, and PHP**
-- 💬 Ask me anything about **web dev**
-- 📫 Email me at **leunel24@gmail.com**
-- ⚡ Fun fact: **I code, it breaks, I learn**
+<p align="center">
+  🌱 Svelte • JavaScript • TypeScript • Java • PHP <br/>
+  💻 Building, breaking, fixing, and learning every day
+</p>
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+## 🚀 About Me
+- 🎓 Learning web development through hands-on projects  
+- 💬 Ask me anything about **web development**
+- 📫 Reach me at **leunel24@gmail.com**
+- ⚡ Fun fact: **If my code works on the first try, I get suspicious**
+
+---
+
+## 🌐 Connect With Me
 <p align="left">
-<a href="https://github.com/nel2131" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="nel2131" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/leunel-valmoria-11818b3a7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/leunel-valmoria-11818b3a7/" height="30" width="40" /></a>
+  <a href="https://github.com/nel2131" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="40"/>
+  </a>
+  <a href="https://linkedin.com/in/leunel-valmoria-11818b3a7/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/heroku" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=heroku" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/svelte" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=svelte" alt="svelte" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+---
+
+## 🛠 Languages & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,svelte,java,php,nodejs,mysql,mongodb,firebase,git,linux,figma" />
+</p>
+
+---
+
+## 📌 Projects (Coming Soon)
+- 🔹 Ticketing System (SvelteKit + TypeScript)
+
+> *Currently building more projects to showcase real-world skills.*
+
+---
+
+<p align="center">
+  🚧 Portfolio in progress — learning never stops 🚧
+</p>
