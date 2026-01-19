@@ -43,5 +43,5 @@
 ---
 
 <p align="center">
-  🚧 Portfolio in progress — learning never stops 🚧
+  🚧 Portfolio in progress | Learning never stops 🚧
 </p>
