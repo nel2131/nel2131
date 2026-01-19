@@ -1,23 +1,18 @@
 # Hi 👋, I'm Leunel Valmoria
 
-A web developer in progress 🚧
+I'm learning web development and enjoying the process of breaking things and fixing them 
 
 - 🌱 Learning **Svelte, JavaScript, TypeScript, Java, and PHP**
-- 💬 Ask me about **web development**
-- 📫 Reach me at **leunel24@gmail.com**
-- ⚡ Fun fact: **I don't know how to code — yet**
+- 💬 Ask me anything about **web dev**
+- 📫 Email me at **leunel24@gmail.com**
+- ⚡ Fun fact: **I code, it breaks, I learn**
 
 ---
-
-## 📊 GitHub Stats
-
-![Leunel's GitHub stats](https://github-readme-stats.vercel.app/api?username=nel2131&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nel2131&layout=compact&theme=tokyonight)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/nel2131" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="nel2131" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/leunel-valmoria-11818b3a7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/leunel-valmoria-11818b3a7/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
