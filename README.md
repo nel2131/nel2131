@@ -56,7 +56,3 @@
 > *Currently building more projects to showcase real-world skills.*
 
 ---
-
-<p align="center">
-  🚧 Portfolio in progress | Learning never stops 🚧
-</p>
